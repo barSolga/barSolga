@@ -4,23 +4,24 @@ My career goal is to become a  Full-stack web developer.
 I`m interested in creating user interfaces, I like inventing and designing new projects. 
 It gives me an endless amount of satisfaction. A happy user is the outcome of well-designed app :D
 
+- 🎵 Music and Programming!
 - 🌱 I’m currently learning Node.js
-- 💵 Open to job / internships proposals
-- 
+- 💵 Open to job / internship proposal
 
 ## ⌨️ My tech knowledge:
 ☛ HTML5<br>
-☛ CSS3 { SASS, BEM, Bootstrap5, RWD, Flexbox, Grid }
-☛ JavaScript[ES6]
-☛ Wordpress
+☛ CSS3 { SASS, BEM, Bootstrap5, RWD, Flexbox, Grid }<br>
+☛ JavaScript[ES6]<br>
+☛ Wordpress<br>
+
 ### ⌛️ In progress:
-☛ Node.js
-☛ React
+☛ Node.js<br>
+☛ React<br>
 
 ### 📚 I also know:
-☛ Gimp / Photoshop
-☛ UI/UX
-☛ Figma
+☛ Gimp / Photoshop<br>
+☛ UI/UX<br>
+☛ Figma<br>
 
 ### 📫 How to reach me:
 - email: bartosz.solga@gmail.com

@@ -6,6 +6,13 @@ It gives me an endless amount of satisfaction. A happy user is the outcome of we
 
 - 🌱 I’m currently learning Node.js(express, handlebars)
 
+## My tech knowledge:
+
+```json
+let techStack = {     HTML5, CSS3(SASS, BEM, Bootstrap5, RWD, Flexbox, Grid), JavaScript[ES6]
+}
+```
+
 ### 📫 How to reach me:
 email: bartosz.solga@gmail.com
 website: https://barsolga.github.io/portfolio/

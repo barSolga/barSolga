@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+## I`m Bartosz Junior Front-end Developer and also Applied Computer Science student.
+# My carrer goal is to become Full-stack web developer.
 <!--
 **barSolga/barSolga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

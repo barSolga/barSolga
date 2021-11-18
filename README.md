@@ -9,7 +9,7 @@ It gives me an endless amount of satisfaction. A happy user is the outcome of we
 - 
 
 ## ⌨️ My tech knowledge:
-☛ HTML5
+☛ HTML5<br>
 ☛ CSS3 { SASS, BEM, Bootstrap5, RWD, Flexbox, Grid }
 ☛ JavaScript[ES6]
 ☛ Wordpress

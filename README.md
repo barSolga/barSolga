@@ -12,10 +12,11 @@ It gives me an endless amount of satisfaction. A happy user is the outcome of we
 ☛ HTML5<br>
 ☛ CSS3 { SASS, BEM, Bootstrap5, RWD, Flexbox, Grid }<br>
 ☛ JavaScript[ES6]<br>
+☛ Node.js<br>
+☛ MongoDB<br>
 ☛ Wordpress<br>
 
 ### ⌛️ In progress:
-☛ Node.js<br>
 ☛ React<br>
 
 ### 📚 I also know:

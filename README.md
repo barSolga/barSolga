@@ -5,7 +5,7 @@ I`m interested in creating user interfaces, I like inventing and designing new p
 It gives me an endless amount of satisfaction. A happy user is the outcome of well-designed app :D
 
 - 🎵 Music and Programming!
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning React
 - 💵 Open to job / internship proposal
 
 ## ⌨️ My tech knowledge:

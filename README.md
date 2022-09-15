@@ -16,10 +16,10 @@ It gives me an endless amount of satisfaction. A happy user is the outcome of we
 ☛ MongoDB<br>
 ☛ Gulp<br>
 ☛ SEO<br>
-☛ Wordpress<br>
 
 ### ⌛️ In progress:
-☛ React<br>
+☛ React/Redux<br>
+☛ Typescript<br>
 
 ### 📚 I also know:
 ☛ Gimp / Photoshop<br>

@@ -11,11 +11,13 @@ It gives me an endless amount of satisfaction. A happy user is the outcome of we
 ## ⌨️ My tech knowledge:
 ☛ HTML5<br>
 ☛ CSS3 { SASS, BEM, Bootstrap5, RWD, Flexbox, Grid }<br>
-☛ JavaScript[ES6]<br>
+☛ JavaScript[ES6+]<br>
 ☛ Node.js(express)<br>
 ☛ MongoDB<br>
 ☛ Gulp<br>
 ☛ SEO<br>
+☛ Postman<br>
+☛ REST API<br>
 
 ### ⌛️ In progress:
 ☛ React/Redux<br>

@@ -18,10 +18,10 @@ It gives me an endless amount of satisfaction. A happy user is the outcome of we
 ☛ SEO<br>
 ☛ Postman<br>
 ☛ REST API<br>
-
-### ⌛️ In progress:
 ☛ React/Redux<br>
 ☛ Typescript<br>
+☛ PostgreSQL<br>
+☛ Docker<br>
 
 ### 📚 I also know:
 ☛ Gimp / Photoshop<br>

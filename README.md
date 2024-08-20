@@ -1,12 +1,5 @@
 ## Hi there 👋
-##  I`m Bartosz **Junior Front-end Developer** and also an Applied Computer Science student. 
-My career goal is to become a  Full-stack web developer. 
-I`m interested in creating user interfaces, I like inventing and designing new projects. 
-It gives me an endless amount of satisfaction. A happy user is the outcome of well-designed app :D
-
-- 🎵 Music and Programming!
-- 🌱 I’m currently learning React
-- 💵 Open to job / internship proposal
+##  I`m Bartosz - Full Stack Software Developer. 
 
 ## ⌨️ My tech knowledge:
 ☛ HTML5<br>
@@ -19,6 +12,7 @@ It gives me an endless amount of satisfaction. A happy user is the outcome of we
 ☛ Postman<br>
 ☛ REST API<br>
 ☛ React/Redux<br>
+☛ Angular<br>
 ☛ Typescript<br>
 ☛ PostgreSQL<br>
 ☛ Docker<br>
@@ -29,9 +23,8 @@ It gives me an endless amount of satisfaction. A happy user is the outcome of we
 ☛ Figma<br>
 
 ### 📫 How to reach me:
-- email: bartosz.solga@gmail.com
+- email: bsolga.dev@gmail.com
 - website: https://barsolga.github.io/portfolio/
-- university github: https://github.com/uek-219165
 
 #### ⚡ Fun fact 🔉: 
 I used to create music for 8 years, sometimes I am uploading new projects on my youtube channel.
